@@ -21,3 +21,8 @@ iOS 모바일 프로그래머가 되기 위해서 많은 노력을 하는 중입
 
 앱 2개 만들고 졸업하는 게 제 꿈인데 할 수 있겠죠..?
 
+===
+
+iOS Developer
+Doing a Bachelor of Science in Computer Engineering
+I'll graduate in Feb 2023
