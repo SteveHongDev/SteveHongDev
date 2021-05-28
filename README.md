@@ -24,5 +24,7 @@ iOS 모바일 프로그래머가 되기 위해서 많은 노력을 하는 중입
 ===
 
 iOS Developer
+
 Doing a Bachelor of Science in Computer Engineering
+
 I'll graduate in Feb 2023
