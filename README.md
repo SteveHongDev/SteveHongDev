@@ -30,11 +30,3 @@ iOS Developer
 Doing a Bachelor of Science in Computer Engineering
 
 I'll graduate in Feb 2023
-
-===
-
-私は”ボム”です。
-
-日本語を習っています！
-
-よろしくお願いしますーー！
