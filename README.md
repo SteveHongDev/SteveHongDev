@@ -17,5 +17,5 @@ Graduate in Feb 2023
 
 ## LeetCode
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=SteveHongDev" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=SteveHongDev&theme=dark" width="400"/>
 </a>
