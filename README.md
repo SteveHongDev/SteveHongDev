@@ -15,6 +15,8 @@ Doing a Bachelor of Science in Computer Engineering
 
 Graduate in Feb 2023
 
+## My Portfolio
+https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean, Preparing in English)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
 
