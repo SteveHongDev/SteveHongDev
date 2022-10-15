@@ -17,6 +17,10 @@ Graduate in Feb 2023
 
 ## My Portfolio
 https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
+
+## My Blog
+https://publish.obsidian.md/steve-hong/Hello%2C+World!
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
 
