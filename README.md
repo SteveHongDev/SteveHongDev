@@ -22,5 +22,6 @@ https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Daily Code Commit Challenge
-23.01.01 ~ \n
+23.01.01 ~
+
 **Plan to try maintaining streaks for at least 1 year.**
