@@ -11,7 +11,7 @@ April 18, 1996
 
 iOS Developer
 
-Doing a Bachelor of Science in Computer Engineering
+B.S in Computer Engineering (Kumoh National Institute of Technology)
 
 Graduate in Feb 2023
 
