@@ -13,8 +13,6 @@ iOS Developer
 
 B.S in Computer Engineering (Kumoh National Institute of Technology)
 
-Graduate in Feb 2023
-
 ## My Portfolio
 https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
 
