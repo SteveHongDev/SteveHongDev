@@ -7,11 +7,10 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-64DADA?style=flat-square&logo=Swift&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 ## Description
-April 18, 1996
+Birth: April 18, 1996
+Job: iOS Developer
 
-iOS Developer
-
-B.S in Computer Engineering (Kumoh National Institute of Technology)
+B.S in Computer Engineering (Kumoh National Institute of Technology, February 2023)
 
 ## My Portfolio
 https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
