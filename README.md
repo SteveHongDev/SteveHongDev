@@ -22,4 +22,4 @@ https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
 ## Daily Code Commit Challenge
 **Plan to try maintaining streaks for at least 1 year.**
 
-23.01.01 ~ TODAY (12 days streak!!)
+23.01.01 ~ TODAY
