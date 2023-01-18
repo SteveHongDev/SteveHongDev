@@ -18,8 +18,3 @@ https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
 
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
-
-## Daily Code Commit Challenge
-**Plan to try maintaining streaks for at least 1 year.**
-
-23.01.01 ~ TODAY
