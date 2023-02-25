@@ -12,7 +12,6 @@ Job: iOS Developer
 B.S in Computer Engineering (Kumoh National Institute of Technology, February 2023)
 
 ## My Portfolio
-https://www.craft.do/s/UBL9Fn2XXXqhqt (Korean)
-
+[My Portfolio(English)](https://www.craft.do/s/N9rAZe0LdLxz5z)
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
