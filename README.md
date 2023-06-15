@@ -7,7 +7,7 @@
 ## Description
 Birth: April 18, 1996
 
-Prompt Engineer / iOS Developer
+iOS Developer
 
 B.S in Computer Engineering (Kumoh National Institute of Technology, February 2023)
 
