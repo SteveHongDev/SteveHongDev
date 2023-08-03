@@ -7,11 +7,11 @@
 ## Description
 Birth: April 18, 1996
 
-iOS Developer
+SwiftUI Developer
 
 B.S in Computer Engineering (Kumoh National Institute of Technology, February 2023)
 
-## My Portfolio
-[My Portfolio(English)](https://steve-hong.notion.site/Hey-I-m-Steve-Hong-ca1308e750434076b2cfee33c9deba2f)
+## About Me
+[Steve Hong, SwiftUI Developer](https://www.craft.me/s/N9rAZe0LdLxz5z)
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
