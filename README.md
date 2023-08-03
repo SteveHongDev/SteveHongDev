@@ -11,7 +11,6 @@ SwiftUI Developer
 
 B.S in Computer Engineering (Kumoh National Institute of Technology, February 2023)
 
-## About Me
-[Steve Hong, SwiftUI Developer](https://www.craft.me/s/N9rAZe0LdLxz5z)
+## [About Me](https://www.craft.me/s/N9rAZe0LdLxz5z)
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
