@@ -5,8 +5,8 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 ## About Me
-
-https://stevehongdev.notion.site/9aae6024ac6242e8bd19570e3c71c2db?pvs=4
+English Resume: [![Resume_EN](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=ReadMe&logoColor=white)](https://spoons-obey-ixu.craft.me/N9rAZe0LdLxz5z)
+Korean Resume: [![Resume_KO](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-000000?style=flat-square&logo=ReadMe&logoColor=white)](https://stevehongdev.notion.site/9aae6024ac6242e8bd19570e3c71c2db?pvs=4)
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
 
