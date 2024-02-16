@@ -5,7 +5,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-64DADA?style=flat-square&logo=Swift&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 ## About Me
-[![Resume_EN](https://img.shields.io/badge/Resume_EN-6078FF?style=flat-square&logo=ReadMe&logoColor=white)](https://spoons-obey-ixu.craft.me/N9rAZe0LdLxz5z)  [![Resume_KO](https://img.shields.io/badge/Resume_KO-6078FF?style=flat-square&logo=ReadMe&logoColor=white)](https://stevehongdev.notion.site/9aae6024ac6242e8bd19570e3c71c2db?pvs=4)  [![My Blog](https://img.shields.io/badge/My_Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@stevehonggg/posts)
+[![Resume_EN](https://img.shields.io/badge/Resume_EN-6078FF?style=flat-square&logo=ReadMe&logoColor=white)](https://stevehongdev.notion.site/Hi-I-m-Seongbeom-Hong-d5bb0df9adf2402db3e31e6ee90fadb2?pvs=4)  [![Resume_KO](https://img.shields.io/badge/Resume_KO-6078FF?style=flat-square&logo=ReadMe&logoColor=white)](https://stevehongdev.notion.site/9aae6024ac6242e8bd19570e3c71c2db?pvs=4)  [![My Blog](https://img.shields.io/badge/My_Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@stevehonggg/posts)
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SteveHongDev)](https://github.com/anuraghazra/github-readme-stats)
 
