@@ -1,5 +1,5 @@
 ## Contact Me!
-[![Tutanota](https://img.shields.io/badge/sb12@tuta.io-840010?style=flat-square&logo=Tutanota&logoColor=white)](mailto:sb12@tuta.io)  [![Gmail](https://img.shields.io/badge/ponoponong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ponoponong@gmail.com)  [![Linkedin](https://img.shields.io/badge/Seongbeom%20Hong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seongbeom-hong-38b543226)
+[![Gmail](https://img.shields.io/badge/stevehonggg@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:stevehonggg@gmail.com)  [![Linkedin](https://img.shields.io/badge/Seongbeom%20Hong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seongbeom-hong-38b543226)
 
 ## My Skills
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-64DADA?style=flat-square&logo=Swift&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
